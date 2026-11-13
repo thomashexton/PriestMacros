@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Priest Macros
+## Notes: /priestmacros replaces this character's priest macros with mouseover-aware versions. It does not run on its own.
+## Author: Thomas
+## Version: 1.0.0
+## DefaultState: Enabled
+
+PriestMacros.lua
